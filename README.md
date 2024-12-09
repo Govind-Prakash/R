@@ -6,4 +6,6 @@
 </h1>
 
 # R
-Here I upload R scripts for basic Bioinformatics and Bio-statistics Projects
+This repository contains R scripts tailored for foundational bioinformatics and biostatistics tasks. From data preprocessing and statistical tests to visualizations and exploratory analysis, these scripts aim to simplify workflows and provide a starting point for life science research projects. Perfect for students and researchers diving into computational biology with R."
+
+Let me know if you'd like further refinements!
